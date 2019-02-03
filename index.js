@@ -34,8 +34,8 @@ takeANumber(katzDeli, "Ada")
 takeANumber(katzDeli, "Grace")
 takeANumber(katzDeli, "Kent")
 currentLine(katzDeli);
-nowServing(katzDeli, "Steven.");
+nowServing(katzDeli);
 takeANumber(katzDeli, "Matz");
 currentLine(katzDeli);
-nowServing(katzDeli);
+nowServing(katzDeli, "Steven.");
 currentLine(katzDeli)
