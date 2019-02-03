@@ -37,5 +37,5 @@ currentLine(katzDeli);
 nowServing(katzDeli);
 takeANumber(katzDeli, "Matz");
 currentLine(katzDeli);
-nowServing(katzDeli, "Steven.");
+nowServing(katzDeli);
 currentLine(katzDeli)
